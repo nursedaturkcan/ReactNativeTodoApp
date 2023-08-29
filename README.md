@@ -1,3 +1,31 @@
+# CRUD APP
+This project aims to create a "Todo App" using React Native, allowing users to list tasks, mark tasks as completed, edit tasks, and delete tasks. The fundamental components of the application are as follows:
+
+- **App.js**: The main component of the application. It contains the primary view and functionalities.
+- **Header.js**: Header component that displays the "Todo App" title at the top of the page.
+- **CustomInput.js**: Customized input component that includes an input field for users to enter new tasks and an add button.
+- **Todos.js**: Component that lists todo items. It includes actions that can be performed on each todo item: marking as completed, editing, and deleting.
+- **TextEditModal.js**: Component for a text editing modal. It contains a modal that allows users to edit the text of a todo item.
+
+The project primarily achieves the following functionalities:
+
+- Users can enter and add new "Todo" items.
+- The added "Todo" items are displayed in a list.
+- Users can mark "Todo" items as completed or uncompleted.
+- Users can edit "Todo" items.
+- Users can delete "Todo" items.
+
+
+
+
+
+
+
+Preview: 
+
+https://github.com/nursedaturkcan/ReactNativeTodoApp/assets/129687664/47947ca2-55f0-41de-afbb-61b64deb9df4
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
